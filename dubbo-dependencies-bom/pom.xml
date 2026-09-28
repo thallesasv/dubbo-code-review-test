@@ -139,7 +139,7 @@
     <resteasy_version>3.15.6.Final</resteasy_version>
     <codehaus-jackson_version>1.9.13</codehaus-jackson_version>
     <tomcat_embed_version>9.0.118</tomcat_embed_version>
-    <nacos_version>2.5.2</nacos_version>
+    <nacos_version>2.5.4</nacos_version>
     <sentinel.version>1.8.10</sentinel.version>
     <seata.version>1.8.0</seata.version>
     <grpc.version>1.81.0</grpc.version>
